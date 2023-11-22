@@ -1,0 +1,14 @@
+Reader
+
+read(): lê caractere a caractere, retorna o caracter representado
+por um valor inteiro, e retorna -1 quando chega ao final do arquivo;
+read(byte[]): lê um pedaço de caracteres para a matriz de
+caracteres especificada, até o tamanho da matriz. Este método
+retorna -1 se não houver mais dados ou se o final do arquivo for
+alcançado.
+
+Write
+
+write(int): Grava o caractere especificado no fluxo de saída;
+write(byte[]): grava a matriz especificada de caracteres no fluxo
+de saída.

@@ -1,0 +1,53 @@
+Quantidade de palavras que iniciam com:
+a: 1
+": 1
+b: 1
+c: 2
+d: 4
+e: 4
+f: 1
+h: 1
+j: 1
+l: 2
+m: 2
+n: 5
+o: 1
+2: 1
+s: 2
+—: 1
+t: 3
+
+Cinco palavras com mais de 5 letras com a maior quantidade de repetições:
+continuou: 1
+barulho: 1
+desesperadas: 1
+sinais: 1
+estrelas: 1
+
+Quantidade total de palavras no texto: 33
+
+Quantidade de repetições da vogal à com crase: 0
+
+Palavras antes da palavra 'sol':
+Lucas
+E
+Jesus
+continuou
+sinais
+no
+
+Palavras depois da palavra 'terra':
+todas
+as
+desesperadas
+com
+medo
+do
+barulho
+do
+mar
+e
+das
+ondas
+
+Palavras com mais de 5 letras e iniciam com a letra x ou w:
